@@ -1,0 +1,79 @@
+{
+  "Sci-Hub": {
+    "success_ema": 0.9951511313510624,
+    "latency_ema": 5148.4663648426595,
+    "attempts": 44,
+    "last_error": "",
+    "last_update": 1784358472
+  },
+  "LibGen": {
+    "success_ema": 0.9999996306260454,
+    "latency_ema": 58848.05207747853,
+    "attempts": 134,
+    "last_error": "",
+    "last_update": 1784599089
+  },
+  "NatureDirect": {
+    "success_ema": 0.7608515499999999,
+    "latency_ema": 5071.873168595457,
+    "attempts": 7,
+    "last_error": "",
+    "last_update": 1784358389
+  },
+  "Crossref": {
+    "success_ema": 0.9073489905574079,
+    "latency_ema": 11150.330657350803,
+    "attempts": 16,
+    "last_error": "",
+    "last_update": 1784599058
+  },
+  "PublisherDirect": {
+    "success_ema": 0.7608515499999999,
+    "latency_ema": 7671.220136219097,
+    "attempts": 7,
+    "last_error": "",
+    "last_update": 1784358389
+  },
+  "CrossrefPage": {
+    "success_ema": 0.9738326183486319,
+    "latency_ema": 65196.445936489785,
+    "attempts": 28,
+    "last_error": "",
+    "last_update": 1784599063
+  },
+  "Unpaywall": {
+    "success_ema": 0.885616037725195,
+    "latency_ema": 50931.02995608198,
+    "attempts": 14,
+    "last_error": "",
+    "last_update": 1784599057
+  },
+  "OpenAlexOA": {
+    "success_ema": 0.87290670858355,
+    "latency_ema": 57027.542030222416,
+    "attempts": 13,
+    "last_error": "",
+    "last_update": 1784599056
+  },
+  "SemanticScholar": {
+    "success_ema": 0.67195,
+    "latency_ema": 6648.058825325966,
+    "attempts": 4,
+    "last_error": "",
+    "last_update": 1784362171
+  },
+  "CORE": {
+    "success_ema": 0.55,
+    "latency_ema": 6065.434551239014,
+    "attempts": 1,
+    "last_error": "",
+    "last_update": 1784256495
+  },
+  "WebVPN": {
+    "success_ema": 0.8587852317595001,
+    "latency_ema": 17534.838275601156,
+    "attempts": 12,
+    "last_error": "",
+    "last_update": 1784358772
+  }
+}
